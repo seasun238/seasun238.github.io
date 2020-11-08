@@ -88,4 +88,4 @@ From Azad University –Mobarakeh/Isfahan Branch
 
 - instagram: <a href="https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9">https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9</a>
   
-  Persian Resume: <a href=""> Resume </a>
+  Persian Resume: <a href="https://seasun238.github.io/resume-fa/"> Resume </a>
