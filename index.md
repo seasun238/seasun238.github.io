@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+<img src="" />
 
-You can use the [editor on GitHub](https://github.com/seasun238/seusun238/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- First Name: Helen
+- Last Name: Dabaghi Bookani
+- Birth Date: 1353/06/01
+- Marriage Status: Married
 
-```markdown
-Syntax highlighted code block
+### Skills
+ 
+- Proficient and familiar  with World-Class Customer Service, Troubleshooting / Problem Solving, Sales Support, Technical and User Support, 
 
-# Header 1
-## Header 2
-### Header 3
+- Complaint Handling, Report and Documentation , Customer Order Fulfillment, importing and exporting procedure of cargos, foreign 
 
-- Bulleted
-- List
+- correspondence, custom clearances, import and export rules, Master in interpreting & translating of commercial, computer
 
-1. Numbered
-2. List
+- industrial ,shipping ,educational & tourism fields, Master in searching in Internet  for any information. 
 
-**Bold** and _Italic_ and `Code` text
+### Languages
 
-[Link](url) and ![Image](src)
-```
+- Persian(Nativ)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- English(GOOD)
 
-### Jekyll Themes
+### Honors
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seasun238/seusun238/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Marketing & Advertising Certificate ( No.:84/8706)                                                    
+From Business Training Center Affiliated to Institute for Trade Studies and Research (Ministry of Commerce) - (2006) 
+ 
+- Container Transportation Certificate ( No.:82/212/00010)                      
+Issued by IRISL Maritime Training Institute (2006) 
+ 
+- Web Designer Certificate       
+[HTML  / FrontPage / Flash/ Dream Weaver (2001)] 
+Medical Emergency Certificate ( No.:9419 – 1996 ) 
 
-### Support or Contact
+- Management Science Educational of Computer  &  
+Teaching Certificate in Internet  (No.: 5-8/1346 &  5-8/1347 – 2006) 
+- Typing of computer Certificate  &  Zarnegar Course Certificate  
+      ( No.:7139 & 8254) - Issued by Iran
+Technical Educational Center(1998) 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Working Experience
+
+- International shipping and shipping  From September 1999 to August 2009 
+
+- Has twenty years of experience in shipping and international shipping companies on the right Different types (manager of import, export, marketing, transit, operations and follow-up) - from 1999 to 2017 
+
+- Management and coaching (teaching) in free computer schools
+
+### Education
+
+- IRU Diploma  Certificate   
+From I.C.C.I.M Education and Inst.  
+2-years–Specialized Diploma in Freight
+
+- Forwarding Management ( FIATA Diploma)  
+From International Federation of Freight Forwarders Associations ( Int. code : 6656)  
+- Associate Diploma in Applied Computer Science   
+From Azad University –Mobarakeh/Isfahan Branch  
+
+### Certificate
+
+-  ICDL certificate issued by the Technical and Professional Organization of Iran Evidence of international road 
+
+- transport of Euro goods Issued by the 
+
+- Educational and Research Institute of the Iranian Chamber of Commerce, 
+
+- Industries and Mines Issued by the Swiss Technical and Vocational School with International Code Number: 6656- (2007-2008) - Certificate of Container 
+
+- Transport Issued by the Shipping 
+
+- Training Institute of the Islamic Republic of Iran Certificate in Marketing and Advertising Issued by the Business Education Center affiliated with the Institute of Business Studies and Research (Ministry of Commerce) 
+
+- Container transport certificate Issued by the Shipping Training Institute of the Islamic Republic of Iran Certificate of web page design including programming 
+
+- Certificate of Medical Emergency and Relief issued by Jihad University and Tehran Medical Sciences Branch - 
+
+- Management and coaching credentials of a free technical and vocational school in the field of Internet
+
+### Other Accounts
+
+- instagram: <a href="https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9">https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9</a>
+  
+  Persian Resume: <a href=""> Resume </a>
