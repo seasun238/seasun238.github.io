@@ -87,5 +87,7 @@ From Azad University –Mobarakeh/Isfahan Branch
 ### Other Accounts
 
 - instagram: <a href="https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9">https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9</a>
+
+- Imail: <a href="seasun238@gmail.com">seasun238@gmail.com</a>
   
   Persian Resume: <a href="https://seasun238.github.io/resume-fa/"> Resume </a>
