@@ -6,8 +6,8 @@
 ### Personal Information
 
 - First Name: Helen
-- Last Name: Dabaghi Bookani
-- Birth Date: 1353/06/01
+- Last Name: Dabbaghi Boukani
+- Birth Date: 1374/August/23
 - Marriage Status: Married
 
 ### Skills
@@ -88,6 +88,6 @@ From Azad University –Mobarakeh/Isfahan Branch
 
 - instagram: <a href="https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9">https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9</a>
 
-- Imail: <a href="seasun238@gmail.com">seasun238@gmail.com</a>
+- Email: <a href="seasun238@gmail.com">seasun238@gmail.com</a>
   
   Persian Resume: <a href="https://seasun238.github.io/resume-fa/"> Resume </a>
