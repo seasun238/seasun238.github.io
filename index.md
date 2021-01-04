@@ -1,4 +1,4 @@
-<img src="https://avatars2.githubusercontent.com/u/73912374?s=400&u=f04d79a1496794950a6c592f16ff1626d211f0b0&v=4"/>
+<img src="pic.jpg">
 
 ### About Me
 
