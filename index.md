@@ -89,5 +89,13 @@ From Azad University –Mobarakeh/Isfahan Branch
 - instagram: <a href="https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9">https://instagram.com/sea_sun238?igshid=1qyzfivqknjm9</a>
 
 - Email: <a href="seasun238@gmail.com">seasun238@gmail.com</a>
-  
+ ----------
+ >Assessment
+
++ [Resume and cover letter](https://github.com/seasun238/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+
++ [Public Sector Evaluation Summary](https://github.com/seasun238/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
+
+ 
+ ----------
   Persian Resume: <a href="https://seasun238.github.io/resume-fa/"> Resume </a>
